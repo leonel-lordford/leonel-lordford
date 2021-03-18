@@ -1,6 +1,6 @@
 ### Hi there 👋 , this is Leonel (aka LordFord), another Python programmer out there...
 
-![portfolio](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=leonel-lordford&grid=true&style=--item-spacing:1.5em;--item-padding:10px;--grid-columns:2)
+[![LordFord's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonel-lordford)](#)
 
 > 📫 How to reach me: ...
 
