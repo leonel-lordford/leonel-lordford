@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 , this is Leonel (aka LordFord), another Python programmer out there...
+
+![portfolio](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=leonel-lordford)
+
+- 📫 How to reach me: ...
 
 <!--
 **leonel-lordford/leonel-lordford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
