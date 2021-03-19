@@ -13,6 +13,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leonel-lordford&count_private=true&include_all_commits=true&theme=graywhite&show_icons=true&custom_title=LordFord%27s%20Stats" alt="LordFord's Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=leonel-lordford&column=3" alt="LordFord's trophies" />
 </p>
 
