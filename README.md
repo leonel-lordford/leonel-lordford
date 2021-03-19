@@ -13,6 +13,8 @@
 
 [![LordFord's github stats](https://github-readme-stats.vercel.app/api?username=leonel-lordford&count_private=true&include_all_commits=true&theme=graywhite&show_icons=true&custom_title=LordFord%27s%20Stats)](#)
 
+<!-- ![#](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=leonel-lordford) -->
+
 ## My social accounts:
 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
