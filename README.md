@@ -11,7 +11,11 @@
 - 🥅  2021 Goal: 
 > Grow my startup up to 10 team members :-D
 
-[![LordFord's github stats](https://github-readme-stats.vercel.app/api?username=leonel-lordford&count_private=true&include_all_commits=true&theme=graywhite&show_icons=true&custom_title=LordFord%27s%20Stats)](#)
+| Stats   | Trophies    |
+| --------- | -------- |
+| [![LordFord's stats](https://github-readme-stats.vercel.app/api?username=leonel-lordford&count_private=true&include_all_commits=true&theme=graywhite&show_icons=true&custom_title=LordFord%27s%20Stats)](#)  | [![LordFord's trophies](https://github-profile-trophy.vercel.app/?username=leonel-lordford&column=3)](#)
+
+<!-- [![LordFord's github stats](https://github-profile-trophy.vercel.app/?username=leonel-lordford&column=3)](#) -->
 
 <!-- ![#](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=leonel-lordford) -->
 
