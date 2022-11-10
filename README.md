@@ -5,17 +5,29 @@
 ## About me
 
 - 🔭  I’m currently working on: 
+
 > Python
+
 > FastApi
+
 > Microservices
 
+
 - 🌱  I’m currently learning: 
+
 > Machine Learning
+
 > AWS SageMaker
-> PyTorch 
+
+> PyTorch
+ 
 > Nodejs
-- 🥅  2023 Goal: 
+
+
+- 🥅  2023 Goals: 
+
 > Support [@datwit] and continue growing this amazing startup :-D
+
 > Get certifications for all my core skills
 
 <p align="center">
