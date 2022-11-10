@@ -26,7 +26,7 @@
 
 - 🥅  2023 Goals: 
 
-> Support [@datwit] and continue growing this amazing startup :-D
+> Support [@datwit](https://github.com/datwit) and continue growing this amazing startup :-D
 
 > Get certifications for all my core skills
 
