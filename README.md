@@ -13,22 +13,20 @@
 > Microservices
 
 
-- 🌱  I’m currently learning: 
+- 🌱  Also, I’m interested in: 
 
-> Machine Learning
-
-> AWS SageMaker
-
-> PyTorch
+> Golang
  
 > Nodejs
 
 
 - 🥅  2023 Goals: 
 
-> Support [@datwit](https://github.com/datwit) and continue growing this amazing startup :-D
+> Support this amazing startup :-D called [@datwit](https://github.com/datwit)
 
 > Get certifications for all my core skills
+
+> Become a Certified Senior Python Developer
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leonel-lordford&count_private=true&include_all_commits=true&theme=graywhite&show_icons=true&custom_title=LordFord%27s%20Stats" alt="LordFord's Stats" />
