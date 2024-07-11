@@ -20,7 +20,7 @@
 > Nodejs
 
 
-- 🥅  2023 Goals: 
+- 🥅  2024 Goals: 
 
 > Support this amazing startup :-D called [@datwit](https://github.com/datwit)
 
