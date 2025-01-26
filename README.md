@@ -10,6 +10,8 @@
 
 > Microservices
 
+> React Native
+
 
 - 🌱  Also, I’m interested in: 
 
@@ -22,7 +24,7 @@
 > Nodejs
 
 
-- 🥅  2024 Goals: 
+- 🥅  Goals: 
 
 > Get certifications for all my core skills
 
