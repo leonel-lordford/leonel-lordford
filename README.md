@@ -38,3 +38,6 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
+<!-- This section you create this variables that are used above -->
+[linkedin]: https://www.linkedin.com/in/leonel-salazar-videaux/?locale=en_US
+
