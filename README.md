@@ -10,8 +10,6 @@
 
 > Microservices
 
-> React Native
-
 
 - 🌱  Also, I’m interested in: 
 
@@ -20,6 +18,12 @@
 > QtFramework
 
 > Golang
+
+> Ruby on Rails
+
+> Rust
+
+> React Native
  
 > Nodejs
 
